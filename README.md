@@ -6,9 +6,9 @@ The Fitness App is a comprehensive solution for individuals looking to track the
 ## Repositories
 - **Frontend Code**: Access the frontend code repository [here](https://github.com/cs490-group-7/cs490-group7-frontend).
 - **Backend Code**: Explore the backend code repository [here](https://github.com/cs490-group-7/cs490-group7-backend).
+- **Selenium Script**: Testing Scripts of the Codebase [here](https://github.com/cs490-group-7/cs490-group7-frontend/tree/dev/src/unit-tests).
 
-## Demos
-- **Selenium Script Demo (Video)**: Watch a demonstration of the Selenium script in action [here](https://github.com/cs490-group-7/cs490-group7-frontend/tree/dev/src/unit-tests).
+## Demo
 - **Fitness App Demo (Video)**: Explore the features and functionality of the Fitness App in this [video](https://www.youtube.com/watch?v=W9yd8CJ5m74).
 
 ## Key Features
