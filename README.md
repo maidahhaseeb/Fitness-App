@@ -15,8 +15,8 @@ The Fitness App is a comprehensive solution for individuals looking to track the
 - **Client-Centric Interface**: The app provides a seamless experience for users, offering exercise views, data logging, and progress tracking.
 - **Real-Time Communication**: Users can engage in real-time messaging with coaches, utilize a chat box for communication, and receive push notifications for updates.
 - **CRUD Operations**: The application allows for Create, Read, Update, and Delete operations, empowering users to manage their exercises and track their fitness journey effectively.
-- **Role-Based Permissions**: Role-based access control ensures that users have appropriate access levels, while an admin dashboard allows for the management of exercises and coach requests.
-- **Testing and Documentation**: The development process includes exhaustive testing using Jest and React Testing Library. Additionally, the codebase is well-documented, ensuring maintainability and scalability. A CI/CD pipeline is also generated to streamline the deployment process.
+- **Role-Based Permissions**: The Fitness App implements role-based access control to ensure users have appropriate access levels. Clients manage their fitness journey, coaches assign personalized plans to clients, and administrators have full control, including managing accounts, exercise logs, and coach requests.
+- **Testing and Documentation**: The development process includes exhaustive testing using Jest and React Testing Library and Selenium Scripting. Additionally, the codebase is well-documented, ensuring maintainability and scalability. A CI/CD pipeline is also generated to streamline the deployment process.
 
 ## Conclusion
 The Fitness App offers a comprehensive solution for individuals seeking to improve their fitness journey. With its user-centric design, real-time communication features, and robust functionality, it provides a holistic approach to fitness tracking and coaching. Explore the repositories and demos to learn more about this innovative application.
